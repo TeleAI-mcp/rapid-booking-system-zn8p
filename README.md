@@ -1,2 +1,3 @@
-# rapid-booking-system-zn8p
-Automated issue comment bot repository
+# Rapid Booking System Zn8P
+
+Automated issue comment bot repository.
